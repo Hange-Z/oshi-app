@@ -1,0 +1,26 @@
+# 编译输出
+target/
+*.jar
+*.war
+*.ear
+*.class
+build/
+
+# 日志文件
+logs/
+*.log
+
+# IDE文件
+.idea/
+*.iml
+*.iws
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 本地配置文件（保护敏感信息）
+application.yml
+application.properties
+.env
